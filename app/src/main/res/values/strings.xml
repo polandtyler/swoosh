@@ -12,5 +12,9 @@
     <string name="mens_toggle">mens toggle</string>
     <string name="womens_toggle">womens toggle</string>
     <string name="co_ed_toggle">co-ed toggle</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
+    <string name="finish">Finish</string>
 
 </resources>
